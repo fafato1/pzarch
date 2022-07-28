@@ -4,7 +4,7 @@
   "description": "A open source project to help the Project Zomboid community",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon ./src/server.js"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
   "dependencies": {
     "express": "^4.18.1",
     "hbs": "^4.2.0",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "winbox": "^0.2.1"
   }
 }

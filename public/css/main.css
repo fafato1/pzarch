@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    size: auto;
+}
+body{
+    background: #111;
+    color: aliceblue;
+    width: 100vw;
+    height: 100vh;
+}
