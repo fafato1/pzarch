@@ -1,5 +1,5 @@
 <h1 align="center">
-    <table>
+    <table border="0">
         <tr>
             <td align="right">
                 <img src="./public/images/SpiffoLogo.png" alt="Project PzArch" width="50%">
