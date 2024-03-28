@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/fafato1/pzarch#readme",
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.19.2",
     "hbs": "^4.2.0",
     "nodemon": "^2.0.19",
     "winbox": "^0.2.1"
